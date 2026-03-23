@@ -23,4 +23,4 @@ jobs:
       - name: Create Identity & Generate Link
         run: |
           node scripts/createNewEthereumIdentity.js
-          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "kolawole ramon", "description": "Premium phone in Nigeria"}'
+          node scripts/manualLinkHumanToAgent.js --challenge '{"name": "kolawole ramon", "description": "Premium car in Nigeria"
